@@ -1,0 +1,1 @@
+This folder includes all utility Ruby scripts that can be used independently from the server.
